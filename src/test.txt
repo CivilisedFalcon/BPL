@@ -1,4 +1,8 @@
 hello world
 it is going yo be an interpreted language.
 What is Makefile?
-What is a Lexer? 
+What is a Lexer?
+what is a Parser?
+what is a AST?
+what is a visitor?
+our extentions is going to be .bpl

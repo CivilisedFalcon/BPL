@@ -28,7 +28,7 @@ $(exec): $(objects)
 #to make our executable (.out) globally accesable in out system, we need to:
 #1. make the code
 #2. copy the ececutable in the proper directory
-#NOTE: Please use "sudo" while executing this command.sud
+#NOTE: Please use "sudo" while executing this command
 install:
 	make
 	cp ./bpl.out /usr/local/bin/bpl
