@@ -1,1 +1,4 @@
 hello world
+it is going yo be an interpreted language.
+What is Makefile?
+What is a Lexer? 
